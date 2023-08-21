@@ -2,7 +2,7 @@
 
 К**раткое описание проекта**
 
-Имитировать выбор пользователем тех или иных фильтров для проверки работы функционала веб приложения
+Имитировать выбор пользователем тех или иных фильтров чекбоксов для проверки работы функционала веб приложения
 
 **Цели проекта** 
 
@@ -10,11 +10,11 @@
 
 **Роль в разработке**
 
-Участвовал в качестве разработчика инструмента автоматизации тестирования на Python
+Участвовал в проекте в качестве тестировщика автоматизатора
 
 **Выполненные задачи**
 
-- Реализовал [возможность авторизации](https://github.com/DimaSannikov/Graduation_project/blob/main/auth_wb.py) пользователя при тестировании без необходимости постоянного ввода логина и пароля, а также ожидания СМС кода от [Wildberries](https://www.wildberries.ru/)
+- Реализовал [возможность аутентификации](https://github.com/DimaSannikov/Graduation_project/blob/main/auth_wb.py) пользователя при тестировании без необходимости постоянного ввода логина и пароля, а также ожидания СМС кода от [Wildberries](https://www.wildberries.ru/)
 - Разработал [функционал](https://github.com/DimaSannikov/Graduation_project/blob/main/pairwise_list_create.py) позволяющий собирать в список имена фильтров и использовать этот [список](https://github.com/DimaSannikov/Graduation_project/blob/main/translate_for_pict.txt) для генерации [наборов попарных тестов](https://github.com/DimaSannikov/Graduation_project/blob/main/pairwise.txt) с помощью [Pairwise Pict Online](https://pairwise.yuuniworks.com/)
 - Разработал [функционал](https://github.com/DimaSannikov/Graduation_project/blob/main/testing_lists.py) который позволяет сопоставить имена фильтров интернет магазина и [списка требуемых проверок](https://github.com/DimaSannikov/Graduation_project/tree/main/testlists)
 - Создал [инструмент](https://github.com/DimaSannikov/Graduation_project/blob/main/checkboxes_test.py) который позволяет осуществлять попарные проверки фильтров выбора товара интернет магазина Wildberries
